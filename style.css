@@ -1,0 +1,32 @@
+:root{
+    background-color: green;
+    color: white;
+}
+main{
+    height: 400px;
+    width: 700px;
+    background-color: darkgreen;
+    border: 5px solid brown;
+}
+header{
+    width: 700px;
+    display: flex;
+    align-items: center;   
+    justify-content: space-between;
+
+}
+input{
+    width: 50px;
+}
+#end{
+    width: 700px;
+    display: flex;
+    align-items: center;   
+    justify-content: space-between;
+}
+#end div{
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
